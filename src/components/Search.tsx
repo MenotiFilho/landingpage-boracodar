@@ -3,8 +3,8 @@ import React from "react";
 function Search() {
 	return (
 		<div>
-			<div className="max-w-[993px] max-h-[128px] ">
-				<div className="gap-5 py-10 flex justify-center text-2xl w-[993px] h-[128px] bg-white rounded-lg">
+			<div className="">
+				<div className="gap-5 py-10 flex justify-center text-2xl  px-30 bg-white rounded-lg">
 					<input
 						className="bg-[#F8F8FF] p-2 border-gray-100 border-2"
 						type="search"
