@@ -13,10 +13,7 @@ function Search() {
 						className="bg-[#F8F8FF] p-2 border-gray-100 border-2"
 						type="date"
 					/>
-					<button
-						className=" text-white font-bold text-sm flex items-center justify-center px-8 py-4 bg-[#6246EA] border-gray-200 border-2 rounded-lg cursor-auto"
-						onClick={""}
-					>
+					<button className=" text-white font-bold text-sm flex items-center justify-center px-8 py-4 bg-[#6246EA] border-gray-200 border-2 rounded-lg cursor-auto">
 						<p>BUSCAR AGORA</p>
 					</button>
 				</div>
